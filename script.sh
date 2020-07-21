@@ -1,4 +1,6 @@
-#/bib/bash
+#/bin/bash
+
+# Description:
 
 
 lscpu
